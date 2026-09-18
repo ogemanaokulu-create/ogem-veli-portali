@@ -1,0 +1,11 @@
+{
+  "name": "OGEM Anaokulu Veli Bilgilendirme Sistemi",
+  "short_name": "OGEM Anaokulu",
+  "description": "Anaokulu veli bilgilendirme ve öğrenci takip sistemi",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f8f7",
+  "theme_color": "#278e7c",
+  "lang": "tr",
+  "icons": []
+}
